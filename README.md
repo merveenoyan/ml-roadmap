@@ -6,7 +6,7 @@ This roadmap is mainly for machine learning engineering rather than data science
 
 Below you will find the full version of the roadmap in a single image, and then you'll find partial roadmaps with links to resources.
 
-[![](/roadmaps/8-machine-learning/Machine_Learning_Engineer.png)](/Machine_Learning_Engineer.png)
+[![](/Machine_Learning_Engineer.png)](/Machine_Learning_Engineer.png)
 
 ## Broken Down Version
 You will find the broken down version of the roadmap below and links to the resources to learn and master the frameworks/libraries.
